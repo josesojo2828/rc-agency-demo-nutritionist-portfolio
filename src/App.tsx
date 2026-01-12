@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Navigate to="/v1" replace />} />
+        <Route path="/" element={<Version2 />} />
         <Route path="/v1" element={<Version1 />} />
         <Route path="/v2" element={<Version2 />} />
         <Route path="/v3" element={<Version3 />} />

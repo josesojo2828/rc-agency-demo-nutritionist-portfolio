@@ -13,7 +13,6 @@ import {
     Star,
     Menu,
     X,
-    Phone,
     Video
 } from 'lucide-react';
 

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import {
     Leaf,
     MapPin,
@@ -9,7 +9,6 @@ import {
     Twitter,
     Play,
     ArrowUpRight,
-    Star,
     Menu,
     X,
     Zap,
@@ -17,7 +16,6 @@ import {
     Smile,
     Heart,
     TrendingUp,
-    Award
 } from 'lucide-react';
 
 // --- Estilos Base para Neo-Brutalismo ---

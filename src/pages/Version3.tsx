@@ -9,13 +9,10 @@ import {
     Twitter,
     Play,
     ArrowRight,
-    Calendar,
     Menu,
     X,
     Zap,
     TrendingUp,
-    Heart,
-    ChevronRight,
     User,
     Clock
 } from 'lucide-react';
